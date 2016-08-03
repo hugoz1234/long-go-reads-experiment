@@ -1,0 +1,90 @@
+
+
+Number of readers: 5
+8.000373337s
+3.000364901s
+4.000326566s
+2.000473196s
+6.000505006s
+3.000541711s
+1.000879684s
+1.000690274s
+Number of writes: 8
+
+
+Number of readers: 5
+8.001047081s
+3.000417229s
+4.000332967s
+2.000351298s
+2.000426364s
+6.000595573s
+3.000542797s
+Number of writes: 7
+
+
+Number of readers: 5
+
+
+Number of readers: 5
+7.999528064s
+3.000470085s
+4.000468123s
+2.000718657s
+6.000842972s
+1.001093777s
+1.001368776s
+1.001206016s
+2.002121367s
+Number of writes: 9
+
+
+Number of readers: 5
+
+
+Number of readers: 5
+8.000386278s
+3.000232979s
+2.000389901s
+2.000268281s
+6.000365148s
+1.000454507s
+
+
+Number of readers: 5
+7.999004475s
+3.000843022s
+2.000357786s
+6.000311782s
+2.00031485s
+1.000181292s
+1.000414949s
+1.000535874s
+Number of writes: 8
+
+
+Number of readers: 5
+7.999879133s
+2.000085817s
+3.0001194s
+6.000313692s
+2.00031521s
+1.000413462s
+2.000440114s
+Number of writes: 7
+
+
+Number of readers: 5
+Number of writes: 0
+
+
+Number of readers: 5
+Number of writes: 0
+
+
+Number of readers: 5
+Number of writes: 0
+
+
+Number of readers: 5
+Number of writes: 0
