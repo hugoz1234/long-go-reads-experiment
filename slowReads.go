@@ -53,7 +53,6 @@ func main(){
 		go func(i int) {
 		    for {
 		    	sleepTime := time.Duration(math.Exp(rand.NormFloat64()))
-		    	fmt.Println("SLEEPYTIME: ", sleepTime)
 		    	now := time.Now()
 	        	lock.RLock()
 	        	timetoAcquire := time.Since(now)
